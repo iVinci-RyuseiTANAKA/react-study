@@ -29,3 +29,13 @@
 ```zsh
 % npm start
 ```
+
+### Material UI インストール
+```zsh
+% npm install @mui/material @emotion/react @emotion/styled
+```
+
+### React-Router インストール
+```zsh
+% npm install react-router-dom@6
+```
